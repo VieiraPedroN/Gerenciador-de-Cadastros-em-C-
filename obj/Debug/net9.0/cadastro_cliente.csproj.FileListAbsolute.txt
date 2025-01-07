@@ -1,0 +1,15 @@
+/home/vieira/Documentos/Estudo/cadastro_cliente/bin/Debug/net9.0/cadastro_cliente
+/home/vieira/Documentos/Estudo/cadastro_cliente/bin/Debug/net9.0/cadastro_cliente.deps.json
+/home/vieira/Documentos/Estudo/cadastro_cliente/bin/Debug/net9.0/cadastro_cliente.runtimeconfig.json
+/home/vieira/Documentos/Estudo/cadastro_cliente/bin/Debug/net9.0/cadastro_cliente.dll
+/home/vieira/Documentos/Estudo/cadastro_cliente/bin/Debug/net9.0/cadastro_cliente.pdb
+/home/vieira/Documentos/Estudo/cadastro_cliente/obj/Debug/net9.0/cadastro_cliente.GeneratedMSBuildEditorConfig.editorconfig
+/home/vieira/Documentos/Estudo/cadastro_cliente/obj/Debug/net9.0/cadastro_cliente.AssemblyInfoInputs.cache
+/home/vieira/Documentos/Estudo/cadastro_cliente/obj/Debug/net9.0/cadastro_cliente.AssemblyInfo.cs
+/home/vieira/Documentos/Estudo/cadastro_cliente/obj/Debug/net9.0/cadastro_cliente.csproj.CoreCompileInputs.cache
+/home/vieira/Documentos/Estudo/cadastro_cliente/obj/Debug/net9.0/cadastro_cliente.sourcelink.json
+/home/vieira/Documentos/Estudo/cadastro_cliente/obj/Debug/net9.0/cadastro_cliente.dll
+/home/vieira/Documentos/Estudo/cadastro_cliente/obj/Debug/net9.0/refint/cadastro_cliente.dll
+/home/vieira/Documentos/Estudo/cadastro_cliente/obj/Debug/net9.0/cadastro_cliente.pdb
+/home/vieira/Documentos/Estudo/cadastro_cliente/obj/Debug/net9.0/cadastro_cliente.genruntimeconfig.cache
+/home/vieira/Documentos/Estudo/cadastro_cliente/obj/Debug/net9.0/ref/cadastro_cliente.dll
